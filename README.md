@@ -1,7 +1,6 @@
 For any inquiries, please contact "yihong0327@gmail.com"
 
-This program is written solely using C++, and it serves as a platform for library to manage seat reservation. To run the program,
-you may require a compiler (e.g.Code::Blocks). Some sample outputs are as follow:
+Preview:
 
 ![image](https://github.com/gnohiy/library-seat-reservation-system/assets/105278322/021572d5-eb68-40a3-933e-f8f13d1d54df)
 
